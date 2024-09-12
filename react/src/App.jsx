@@ -3,6 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div className="card">
+      <p>Test</p>
       <h1>Velkommen! 👋</h1>
       <p>
         Du kan se koden for dette prosjektet{" "}
